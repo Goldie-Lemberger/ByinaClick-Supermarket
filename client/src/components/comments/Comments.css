@@ -1,0 +1,16 @@
+.responses-add {
+    font-family: "FbPekan-Bold";
+    font-size: 1.2vw;
+    border: 2px solid #48e8f3 !important;
+    background-color: white;
+    
+      margin-top: 8px;
+      border-radius: 18px;
+      padding: 1.5px 23px;
+  
+  }
+  
+  .responses-add:hover {
+    background-color: #48e8f3;
+  }
+  

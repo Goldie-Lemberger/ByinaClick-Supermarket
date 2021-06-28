@@ -1,0 +1,25 @@
+.form-control_{
+    border: none;
+    border-bottom: 2px solid rgb(201, 47, 47) !important;
+background-color: transparent;
+width: 60%;
+}
+
+.form-control_:focus{
+    outline: none;
+    border-bottom: 2px solid rgb(8, 5, 5) !important;
+}
+
+.form-label_{
+    text-align: center;
+    font-family: "TitilliumWeb";
+    font-weight: normal;
+    width: 36%
+}
+
+.smallErorr{
+    display: block;
+    color: red;
+    text-align: right;
+    width: 95%;
+}

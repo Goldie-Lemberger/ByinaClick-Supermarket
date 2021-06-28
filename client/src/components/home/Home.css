@@ -1,0 +1,72 @@
+.sizeImg{
+width: 100%;
+    padding:1em 0 0 6em  ;  
+}
+
+.masthead {
+padding: 0em 0 5em 10em;
+position: relative;
+z-index: 0;
+
+}
+
+
+
+.masthead a {
+color: rgba(255, 255, 255, .8);
+text-decoration: underline;
+z-index: 1
+}
+
+.masthead a:hover {
+color: #fff
+}
+
+
+
+.masthead .masthead-cards .card {
+opacity: 1;
+font-size: 2vw;
+text-transform: uppercase;
+font-family: "TitilliumWeb-Black";
+
+letter-spacing: 20%;
+color: #212529;
+transition: .15s all;
+}
+
+.masthead .masthead-cards .card:hover {
+margin-top: -.25rem;
+margin-bottom: .25rem
+}
+
+
+.masthead .masthead-cards .card.border-bottom-orange:hover {
+color:orange
+}
+
+
+.masthead .masthead-cards  .card.border-bottom-red:hover {
+color: red
+}
+
+.masthead .masthead-cards .card.border-bottom-yellow:hover {
+color: rgb(245, 245, 51)
+}
+
+.masthead-page {
+
+padding: 1rem 0 4rem
+}
+
+.border-bottom-yellow {
+border-color:  rgb(245, 245, 51)!important;
+}
+
+.border-bottom-red {
+border-color: red!important;
+}
+
+.card.border-bottom-orange {
+border-color: orange!important;
+}

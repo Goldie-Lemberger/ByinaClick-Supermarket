@@ -1,0 +1,39 @@
+.imgSize{
+    width: 25%;
+}
+
+.topMerge{
+    margin-top: 3em;
+    
+   
+}
+
+.btn-lightBlue{
+    background-color: rgb(8, 187, 247);
+    padding: 5%;
+    margin: 1em;
+    font-size:larger;
+}
+
+.btn-yellow{
+    background-color: yellow;
+    padding: 5%;
+    margin: 1em;
+    font-size:larger;
+ 
+}
+
+.btn-orange{
+    background-color: orange;
+    padding: 5%;
+    margin: 1em;
+    font-size:larger;
+    
+}
+
+.btn-red{
+    background-color: red;
+    padding: 5%;
+    margin: 1em;
+    font-size:larger;
+}

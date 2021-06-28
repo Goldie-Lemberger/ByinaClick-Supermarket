@@ -1,0 +1,7 @@
+.login-input{
+    width: 100%;
+}
+
+.MuiInput-underline:before{
+    border-bottom: 0 !important;
+}

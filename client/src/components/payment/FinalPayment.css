@@ -1,0 +1,19 @@
+
+.display{
+    display: inline-block;
+    margin: 2%;
+}
+.total-price{
+    padding: 1px;
+    text-align: center;
+    margin: 1%;
+    margin-left: none;
+    margin-right: none;
+    background-color: rgb(250, 246, 23);
+    border-radius: 5%;
+}
+
+.btn-center{
+    text-align: center;
+
+}

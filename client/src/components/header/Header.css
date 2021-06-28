@@ -1,0 +1,38 @@
+.sumItesInCart{
+    min-width: 17px;
+    min-height: 17px;
+    background:#eef134 ;
+    border-radius: 8.5px;
+    font-feature-settings: "lnum";
+    padding: 3px;
+    display: block;
+    position: absolute;
+    top: 13px;
+    right: 7.8%;
+    text-align: center;
+    color: black;
+    line-height: 95%;
+    font-size: 12px;
+    font-family: Helvetica,Arial,sans-serif;
+}
+
+.icon{
+    font-size: 170%;
+    color: white !important;
+    background: none !important;
+ 
+}
+
+.icon-t{
+    font-size: 190%;
+}
+
+.cart-items-container{
+    text-align: right;
+    vertical-align: top;
+}
+.table-cart{
+    width: 12%;
+    color: rgb(6, 226, 255) !important;
+
+}

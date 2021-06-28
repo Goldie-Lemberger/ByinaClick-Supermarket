@@ -1,0 +1,35 @@
+.container_{
+    margin: 1% auto;
+    background-color: rgb(255 , 255, 255);
+    padding: 1em;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.7);
+    width: 40%; 
+    border-radius: 30px;
+    background: #ebeaea;
+    box-shadow:  35px 35px 80px #868585,
+                 -35px -35px 80px #ffffff;
+}
+
+.center{
+    text-align: center !important;
+}
+.form-check .form-check-input{
+    align-self: center !important;
+
+    float:none !important;
+    margin-right: 1% !important;
+}
+
+.form-check-label{
+    margin-bottom: 2%;
+}
+.terms-modal{
+    color: black;
+ border-bottom: 1px solid black;
+ margin-bottom:initial;
+}
+.terms-modal:hover{
+    font-weight: bold;
+}
+

@@ -1,0 +1,35 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+@font-face{
+  font-family: "TitilliumWeb-Regular";
+  src: local("TitilliumWeb-Regular"), url("./asset/fonts/TitilliumWeb-Regular.ttf") format('truetype');
+  font-weight: normal;
+}
+@font-face{
+  font-family: "TitilliumWeb";
+  src: local("TitilliumWeb-Light"), url("./asset/fonts/TitilliumWeb-Light.ttf") format('truetype');
+  font-weight: light;
+}
+@font-face{
+  font-family: "TitilliumWeb";
+  src: local("TitilliumWeb-Bold"), url("./asset/fonts/TitilliumWeb-Bold.ttf") format('truetype');
+  font-weight: bold;
+}
+
+@font-face{
+  font-family: "TitilliumWeb-Black";
+  src: local("TitilliumWeb-Black"), url("./asset/fonts/TitilliumWeb-Black.ttf") format('truetype');
+  font-weight: bolder;
+}
